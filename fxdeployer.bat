@@ -1,0 +1,1 @@
+javafxpackager -deploy -native -outdir packages -outfile Keva -srcdir target -srcfiles keva-1.0-SNAPSHOT.jar -appclass org.kg.keva.MainApp -name "Keva" -title "Keva demo"
